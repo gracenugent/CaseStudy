@@ -5,8 +5,7 @@
 # Find out more about building applications with Shiny here:
 #
 #    https://shiny.posit.co/
-
-R.version.string
+#
 
 library(shiny)
 

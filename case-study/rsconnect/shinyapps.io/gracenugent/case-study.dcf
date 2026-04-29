@@ -1,0 +1,12 @@
+name: case-study
+title: case-study
+username: gracenugent
+account: gracenugent
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17258040
+bundleId: 11924887
+url: https://gracenugent.shinyapps.io/case-study/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
