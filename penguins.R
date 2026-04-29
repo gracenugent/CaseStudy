@@ -1,0 +1,2 @@
+data(penguins)
+summary(penguins)
