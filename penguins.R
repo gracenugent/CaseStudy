@@ -1,2 +1,0 @@
-data(penguins)
-summary(penguins)
