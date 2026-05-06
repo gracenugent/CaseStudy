@@ -1,3 +1,3 @@
 # ER Case File
 
-This is my READme file for my emergency room case study app. 
+This is my README file for my emergency room case study app. 
